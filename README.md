@@ -15,3 +15,9 @@ This notebook creates a plot of the precipitation that fell between August - Oct
 This notebook analyses the precipitation falling in Boulder between the years 1948 to 2013. The plot below shows the distribution of total monthly precipitation for each of the calendar months. 
 
 ![](./images/total-monthly-precipitation.png)
+
+### 3-river-discharge-1986-2013
+
+In this notebook, the river discharge of Boulder Creek is analysed between 1986 to 2013. The plot below shows the average daily discharge of Boulder Creek for each month between 1986 to 2013.
+
+![](./images/river-discharge-by-month.png)
