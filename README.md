@@ -21,3 +21,18 @@ This notebook analyses the precipitation falling in Boulder between the years 19
 In this notebook, the river discharge of Boulder Creek is analysed between 1986 to 2013. The plot below shows the average daily discharge of Boulder Creek for each month between 1986 to 2013.
 
 ![](./images/river-discharge-by-month.png)
+
+## Week 2
+
+### 1-analysing-lidar-data.ipynb
+
+This notebook creates a plot of the elevation of a surrounding area of Boulder that was affected by the September 2013 flood.  The plot is made by analysing LIDAR data to construct a Digital Elevation Model (DEM). Shown below is the DEM that is constructed.
+
+![](./images/lidar-digital-elevation-model.png)
+
+
+Using a Digital Surface Model (DSM), one can construct a Canopy Height Model which depicts the height of trees and other vegetation. The CHM is shown below.
+
+
+![](./images/canopy-height-model.png)
+
