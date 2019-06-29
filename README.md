@@ -30,9 +30,15 @@ This notebook creates a plot of the elevation of a surrounding area of Boulder t
 
 ![](./images/lidar-digital-elevation-model.png)
 
-
 Using a Digital Surface Model (DSM), one can construct a Canopy Height Model which depicts the height of trees and other vegetation. The CHM is shown below.
 
-
 ![](./images/canopy-height-model.png)
+
+### 2-classifying-canopy-height-model.ipynb
+
+In this notebook, the Canopy Height Model that depicts the height of the trees around Boulder is further examined. Trees are grouped into four categories depending on their height. This allows plots of tree sizes to be created. Shown below is a plot of all trees above 12 metres in the area under consideration. 
+
+![](./images/trees-above-12-metres.png)
+
+
 
