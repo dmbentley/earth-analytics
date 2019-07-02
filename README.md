@@ -44,6 +44,5 @@ In this notebook, the Canopy Height Model that depicts the height of the trees a
 
 The damage of the flood can be determined by analysing the Digital Elevation Models both before and after the flood. In this notebook, a map that shows the change in elevation is created. 
 
-
-
+![](./images/change_in_elevation.png)
 
